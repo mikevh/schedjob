@@ -6,6 +6,6 @@ namespace MckScheduledTasks.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public DateTime NextOccurrenct { get; set; }
+        public DateTime NextOccurrence { get; set; }
     }
 }
